@@ -1,6 +1,6 @@
 {
-  "name": "@marco_ciaramella/cpu-web-miner",
-  "version": "1.9.5",
+  "name": "@wijaya-suto/macul",
+  "version": "1.0.0",
   "description": "A CPU miner for website monetization",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MarcoCiaramella/cpu-web-miner.git"
+    "url": "git+https://github.com/satelitlima00/cpu-web-miner.git"
   },
   "keywords": [
     "crypto",
